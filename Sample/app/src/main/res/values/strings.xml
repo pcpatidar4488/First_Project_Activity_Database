@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="nameerroe">Enter valid Name</string>
+    <string name="mobileerror">Enter valid Mobile Number</string>
+</resources>
